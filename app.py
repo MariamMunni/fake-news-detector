@@ -937,6 +937,7 @@ st.markdown(
     <div style="margin-top: 1.8rem; padding-top: 1rem; border-top: 1px solid rgba(148,163,184,0.15); display: flex; justify-content: space-between; align-items: center; gap: 1rem; color: #a7b3d1; font-size: 0.8rem; flex-wrap: wrap;">
         <span>© 2026 InsightScan AI</span>
         <span>News intelligence for smarter decisions</span>
+        <span>Created by Mariam Forazi Munni</span>
     </div>
     """,
     unsafe_allow_html=True,
